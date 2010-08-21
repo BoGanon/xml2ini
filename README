@@ -1,0 +1,7 @@
+Scans a FontStudio non-XNA xml file and prints it out in INI format.
+
+Usage:
+	xml2ini file > file
+
+Dependencies:
+	expat-2.0.1
